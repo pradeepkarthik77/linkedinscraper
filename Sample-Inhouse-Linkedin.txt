@@ -1,0 +1,82 @@
+=========Eg:1=========
+
+{
+	"_id" : ObjectId("61c02b63c33e6d975d1b8573"),
+	"batch" : "Batch_7",
+	"linkedin_Profile" : "https://uk.linkedin.com/in/kane-robin-9b872114a",
+	"fullName" : "Kane Robin",
+	"firstName" : "Kane",
+	"lastName" : "Robin",
+	"headline" : "Solicitor at RIAA Barker Gillette (UK) LLP",
+	"location" : "London, England, United Kingdom",
+	"jobTitle" : "Solicitor",
+	"company" : "RIAA Barker Gillette (UK) LLP",
+	"imgUrl" : "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+	"connectionsCount" : "305",
+	"description" : "",
+	"Experience" : {
+		"1" : {
+			"0" : {
+				"title" : "Solicitor",
+				"date_range" : "Nov 2017 – Present",
+				"duration" : "4 yrs 2 mos",
+				"company_location" : "London, United Kingdom",
+				"pracarea" : ""
+			},
+			"company_name" : "RIAA Barker Gillette (UK) LLP"
+		},
+		"2" : {
+			"0" : {
+				"title" : "Solicitor",
+				"date_range" : "Oct 2015 – Mar 2017",
+				"duration" : "1 yr 6 mos",
+				"company_location" : "",
+				"pracarea" : "Residential and Commercial property solicitor"
+			},
+			"1" : {
+				"title" : "Trainee Solicitor",
+				"date_range" : "Oct 2013 – Oct 2015",
+				"duration" : "2 yrs 1 mo",
+				"company_location" : "",
+				"pracarea" : "Residential and Commercial property solicitor"
+			},
+			"company_name" : "Taylors Legal"
+		}
+	},
+	"Education" : {
+		"1" : {
+			"0" : {
+				"degree_name" : "",
+				"Field Of Study" : "Legal Practice Course",
+				"grade" : "Commendation",
+				"date_year" : "2012 – 2013",
+				"Activities_Societies:" : ""
+			},
+			"university_name" : "BPP University"
+		},
+		"2" : {
+			"0" : {
+				"degree_name" : "Graduate Diploma in Law",
+				"Field Of Study" : "",
+				"grade" : "Commendation",
+				"date_year" : "2011 – 2012",
+				"Activities_Societies:" : ""
+			},
+			"university_name" : "BPP University"
+		},
+		"3" : {
+			"0" : {
+				"degree_name" : "Bachelor of Science - BS",
+				"Field Of Study" : "Human Biology",
+				"grade" : "2:1 (Hons)",
+				"date_year" : "2008 – 2011",
+				"Activities_Societies:" : ""
+			},
+			"university_name" : "University of Birmingham"
+		}
+	}
+}
+
+
+
+soup ah vaangi vachukonga ... 

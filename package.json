@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "mongodb": "^4.9.1",
+    "puppeteer": "^17.0.0"
+  }
+}
